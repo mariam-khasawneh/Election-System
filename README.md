@@ -24,16 +24,6 @@ This project is focused on creating an engaging, secure, and informative online 
 - **Announcements Page**: A page dedicated to displaying important updates and announcements related to the election.
 
 
-## Our Team
-
-- **Scrum Master**: Forat Thalji
-- **Product Owner**: Mohammad Abdullah
-- **QA**: AbdelRahman-Alwabarneh
-- **Developer**: Mariam Khasawneh
-- **Developer**: AbdelRahman Mansour
-- **Developer**:Yousef Ali
-
-
 ## Project Links
 
 - **Trello Board**: [Trello Board](https://trello.com/b/Onw8BXiW/g3-voting-system)
