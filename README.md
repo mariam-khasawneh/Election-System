@@ -24,9 +24,4 @@ This project is focused on creating an engaging, secure, and informative online 
 - **Announcements Page**: A page dedicated to displaying important updates and announcements related to the election.
 
 
-## Project Links
 
-- **Trello Board**: [Trello Board](https://trello.com/b/Onw8BXiW/g3-voting-system)
-- **Figma Design**: [Figma Design](https://www.figma.com/design/14dBJ0PTHIvSvBpbDxyMLD/Election?node-id=17-1007&t=oSxDS9hvIwhNX1Ks-0)
-- **Organization GitHub**: [GitHub Organization](https://github.com/Elections-Project)
-- **Elections Website**: [Elections GitHub Repository](https://github.com/Elections-Project/Election_V3.git)
